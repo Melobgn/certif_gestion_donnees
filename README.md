@@ -39,5 +39,5 @@ docker compose up --build
 
 - [API](docs/api.md)
 - [Database](docs/database.md)
-- [RGPD](docs/rgpd.md)
+- [RGPD](docs/RGPD.md)
 
