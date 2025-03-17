@@ -149,8 +149,12 @@ env.bak/
 venv.bak/
 
 # Fichiers
-.csv 
-.xlsx
+*.csv
+*.xlsx
+
+**/*.csv
+**/*.xlsx
+
 
 
 # Spyder project settings
